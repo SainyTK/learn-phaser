@@ -1,6 +1,7 @@
-<img align="center" src="./public/assets/apple.png" width=40/>
-
-# Learn Phaser
+<div style="width: 100%" align="center">
+    <img align="center" src="./public/assets/apple.png" width="40px"/>
+    <h1 align="center">Learn Phaser</h1>
+</div>
 
 ## Description
 
